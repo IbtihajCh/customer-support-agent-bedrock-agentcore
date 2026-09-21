@@ -174,3 +174,9 @@ are included here so the project runs end to end. The agent implementation in
 `main.py` — the runtime entrypoint, tool integration, retrieval, memory hooks,
 sandboxed calculation and deployment handling — is original work.
 
+## License
+
+Released under the MIT License — see [LICENSE](LICENSE). The MIT grant covers
+the original work in this repository; the scaffold files listed above remain
+subject to their original terms.
+
