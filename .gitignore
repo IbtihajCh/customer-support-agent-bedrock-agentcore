@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+*.egg-info/
+.python-version
+
+# AgentCore deployment artifacts
+.bedrock_agentcore/
+.bedrock_agentcore.yaml
+dependencies.zip
+dependencies.hash
+
+# Build / archive artifacts
+*.zip
+dist/
+build/
+
+# Logs
+*.log
+
+# Local development scratch
+_verify_*.py
+_modetest*
+
+# Editors / OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
